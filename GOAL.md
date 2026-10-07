@@ -7,7 +7,7 @@ Build a lamp that shows what "engineering intelligent systems and fluid interfac
 ## Concept
 
 - Two parallel metal plates (brushed aluminum or copper), about 15 mm apart.
-- A frosted acrylic or glass panel sits between them, edge-lit by warm LEDs, so you see a glow and never a bare light source.
+- A clear, water-like glass slab sits between them with a warm diffused glow from its center, fading to clear glass at the edges, so you see a glow and never a bare light source. Cool clear glass, warm light.
 - The plates double as heatsinks for the LEDs.
 - The plates also act as the controls: capacitive touch to turn on and dim, with no visible switch.
 
@@ -27,7 +27,6 @@ Build a lamp that shows what "engineering intelligent systems and fluid interfac
 
 ## Open questions
 
-- Light color: cool and clear like Pocari, warm, or a clear glass core with a warm glow.
 - Plate material and finish.
 - Controller board and power source.
 - Overall size and plate shape.
