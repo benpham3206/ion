@@ -8,6 +8,7 @@ Build a lamp that shows what "engineering intelligent systems and fluid interfac
 
 - Two parallel metal plates (brushed aluminum or copper), about 15 mm apart.
 - A clear, water-like glass slab sits between them with a warm diffused glow from its center, fading to clear glass at the edges, so you see a glow and never a bare light source. Cool clear glass, warm light.
+- Underglow: soft, diffused light washing out from under the base onto the desk, with no visible LEDs.
 - The plates double as heatsinks for the LEDs.
 - The plates also act as the controls: capacitive touch to turn on and dim, with no visible switch.
 
